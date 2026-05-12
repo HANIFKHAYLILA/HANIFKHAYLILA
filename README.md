@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="sampul-github.png"></img>
+<img src="sampul-github.png"/>
 
 
 Helloo!! My Name is:
@@ -21,9 +21,6 @@ Helloo!! My Name is:
 
 - 🔭 I’m currently internship on PT. Wiratek Solusi Asia as Frontend Developer
 - 🌱 I’m currently learning JS, TS, and NextJS
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
 - 📫 How to reach me: <a href="https://www.instagram.com/khaylilahanif_/"> khaylilahanif_</a> (instagram) or fajrihanif609@gmail.com (email)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like trying new things.
