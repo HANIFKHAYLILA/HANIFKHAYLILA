@@ -21,8 +21,7 @@ My Name is:
 
 - 🔭 I’m currently internship on PT. Wiratek Solusi Asia as Frontend Developer
 - 🌱 I’m currently learning JS, TS, and NextJS
-- 📫 How to reach me: 
-![https://www.instagram.com/khaylilahanif_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![fajrihanif609@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/hanifkhaylilafajri/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📫 How to reach me:<br/>![https://www.instagram.com/khaylilahanif_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![fajrihanif609@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/hanifkhaylilafajri/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - 😄 Pronouns: **he/him** or **Nip**
 - ⚡ Fun fact: I like trying new things.
 
